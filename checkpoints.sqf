@@ -1,3 +1,10 @@
+/*
+  CHECKPOINTS.
+	CUSTOM CONTENT FOR CHERNO MAP EPOCH/OVERPOCH
+	AUTHOR: Don2k7
+	Date: 12/11/2018
+
+*/
 if (isServer) then {
 _vehicle_1 = objNull;
 if (true) then
