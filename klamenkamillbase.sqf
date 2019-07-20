@@ -1,3 +1,10 @@
+/*
+  KLAMENKRA MILITARY BASE
+	CUSTOM CONTENT FOR CHERNO MAP EPOCH/OVERPOCH
+	AUTHOR: Don2k7
+	Date: 20/03/2018
+
+*/
 if (isServer) then {
 
 _vehicle_147 = objNull;
