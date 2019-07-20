@@ -1,3 +1,10 @@
+/*
+  KLEN CASTLE
+	CUSTOM CONTENT FOR CHERNO MAP EPOCH/OVERPOCH
+	AUTHOR: Don2k7
+	Date: 05/02/2019
+
+*/
 if (isServer) then {
 
 _vehicle_0 = objNull;
