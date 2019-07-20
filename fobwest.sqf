@@ -1,3 +1,10 @@
+/*
+  FOB-WEST
+	CUSTOM CONTENT FOR CHERNO MAP EPOCH/OVERPOCH
+	AUTHOR: Don2k7
+	Date: 12/9/2018
+
+*/
 if (isServer) then {
 
 _vehicle_0 = objNull;
